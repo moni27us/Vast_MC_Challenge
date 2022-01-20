@@ -1,0 +1,37 @@
+/*DONUT CHART STYLES*/
+
+.tooltip {
+  position: absolute;
+  text-align: center;
+  width: 200px;
+  height: 80px;
+  padding: 2px;
+  font: 12px sans-serif;
+  background: #becfeb;
+  border: 0px;
+  border-radius: 8px;
+  color: black;
+  box-shadow: -3px 3px 15px #888888;
+  opacity: 0;
+  font-size:x-large;
+  font-weight: bold;
+}
+/*DONUT CHART STYLES END*/
+.bars:hover {
+	fill: orange;
+}
+
+.tab {
+  color: rgb(223, 70, 184);
+    padding-top: 40%;
+    writing-mode: horizontal-tb;
+    width: 1000px;
+    font-family: 'Hoefler Text', Georgia, 'Times New Roman', serif;
+    font-weight: normal;
+    font-size: 1.75em;
+    letter-spacing: .2em;
+    line-height: 1.1em;
+    margin: 0px;
+    text-align: center;
+    text-transform: uppercase;
+}
